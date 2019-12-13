@@ -20,13 +20,17 @@ git clone -b sros_19.7.r2 --depth 1 https://github.com/hellt/nokia-yangtree
 ### 2.2 Archives
 It is possible to download the whole outputs collection for a specific release in the `zip` or `tgz` containers.
 
-The github `releases` page contains the direct links to those archives. If needed, the download link can be programmatically concatenated using the following rule:
+The github `releases`(https://github.com/hellt/nokia-yangtree/releases) page contains the direct links to those archives. If needed, the download link can be programmatically concatenated using the following rule:
 
 **for zip**
 `https://github.com/hellt/nokia-yangtree/archive/` + `tag_name` + `zip`
 
-**for zip**
+**for tar.gz**
 `https://github.com/hellt/nokia-yangtree/archive/` + `tag_name` + `tar.gz`
+
+Here are the direct links to download `sros_19.7.r2` models outputs in the respective containers:
+- [sros_19.7.r2.zip](https://github.com/hellt/nokia-yangtree/archive/sros_19.7.r2.zip)
+- [sros_19.7.r2.tar.gz](https://github.com/hellt/nokia-yangtree/archive/sros_19.7.r2.tar.gz)
 
 ## 3 HTML preview
 The HTML representation of the YANG models can be viewed in a browser without downloading the files. Prepend the path to the file with `http://htmlpreview.github.io/?` to have a served HTML file.
