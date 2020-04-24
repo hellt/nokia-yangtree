@@ -6,7 +6,9 @@ Nokia YANGtree repo contains the most common YANG output formats generated from 
 - HTML file with `.html` extension
 
 ## 1 Releases
-The repo structure leverages git [tags](https://github.com/hellt/nokia-yangtree/tags). Each tag points to a file collection generated for a specific Nokia 7x50 release.
+The repo structure leverages git [tags](https://github.com/hellt/nokia-yangtree/tags). Each tag points to a file collection generated for a specific Nokia 7x50 release. To select a SR OS go to the tags section as displayed:
+
+![select_tag](https://gitlab.com/rdodin/pics/-/wikis/uploads/43cc6afb381976990c18de526fe906e6/yangtree.gif)
 
 ## 2 Download
 There are several ways to download the outputs for a specific release. The below examples will assume the `sros_20.2.r2` release is in question.
