@@ -17,11 +17,11 @@ The repo structure leverages git [tags](https://github.com/hellt/nokia-yangtree/
 The following web pages have been generated for you to easily navigate SR OS YANG models:
 
 * Nokia `configuration` datastore
-  * [HTML tree](http://htmlpreview.github.io/?https://github.com/hellt/nokia-yangtree/blob/sros_19.10.r1/sros_19.10.r1-nokia-conf-combined.html)
-  * [Path browser](http://htmlpreview.github.io/?https://github.com/hellt/nokia-yangtree/blob/sros_19.10.r1/sros_19.10.r1-nokia-conf-combined-paths.html)
+  * [HTML tree](https://rdodin.gitlab.io/nokia-yangtree-srv/sros_19.10.r1-nokia-conf-combined.html)
+  * [Path browser](https://rdodin.gitlab.io/nokia-yangtree-srv/sros_19.10.r1-nokia-conf-combined-paths.html)
 * Nokia `state` datastore
-  * [HTML tree](http://htmlpreview.github.io/?https://github.com/hellt/nokia-yangtree/blob/sros_19.10.r1/sros_19.10.r1-nokia-state-combined.html)
-  * [Path browser](http://htmlpreview.github.io/?https://github.com/hellt/nokia-yangtree/blob/sros_19.10.r1/sros_19.10.r1-nokia-state-combined-paths.html)
+  * [HTML tree](https://rdodin.gitlab.io/nokia-yangtree-srv/sros_19.10.r1-nokia-state-combined.html)
+  * [Path browser](https://rdodin.gitlab.io/nokia-yangtree-srv/sros_19.10.r1-nokia-conf-combined-paths.html)
 
 > Note: due to the substantial size of the HTML documents it might take a while to load them.
 
