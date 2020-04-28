@@ -17,23 +17,23 @@ The repo structure leverages git [tags](https://github.com/hellt/nokia-yangtree/
 The following web pages have been generated for you to easily navigate SR OS YANG models:
 
 * Nokia `configuration` datastore
-  * [HTML tree](https://rdodin.gitlab.io/nokia-yangtree-srv/sros_19.10.r2-nokia-conf-combined.html)
-  * [Path browser](https://rdodin.gitlab.io/nokia-yangtree-srv/sros_19.10.r2-nokia-conf-combined-paths.html)
+  * [HTML tree](https://rdodin.gitlab.io/nokia-yangtree-srv/sros_19.10.r3-nokia-conf-combined.html)
+  * [Path browser](https://rdodin.gitlab.io/nokia-yangtree-srv/sros_19.10.r3-nokia-conf-combined-paths.html)
 * Nokia `state` datastore
-  * [HTML tree](https://rdodin.gitlab.io/nokia-yangtree-srv/sros_19.10.r2-nokia-state-combined.html)
-  * [Path browser](https://rdodin.gitlab.io/nokia-yangtree-srv/sros_19.10.r2-nokia-state-combined-paths.html)
+  * [HTML tree](https://rdodin.gitlab.io/nokia-yangtree-srv/sros_19.10.r3-nokia-state-combined.html)
+  * [Path browser](https://rdodin.gitlab.io/nokia-yangtree-srv/sros_19.10.r3-nokia-state-combined-paths.html)
 
 > Note: due to the substantial size of the HTML documents it might take a while to load them.
 
 Read more about the YANG browser capabilities [here](https://netdevops.me/2020/nokia-yang-tree/).
 
 ## 3 Download
-There are several ways to download the outputs for a specific release. The below examples will assume the `sros_19.10.r2` release is in question.
+There are several ways to download the outputs for a specific release. The below examples will assume the `sros_19.10.r3` release is in question.
 
 ### 3.1 Clone with git
 If git is installed it is possible to clone the artifacts for a specific tag with the following command:
 ```
-git clone -b sros_19.10.r2 --depth 1 https://github.com/hellt/nokia-yangtree
+git clone -b sros_19.10.r3 --depth 1 https://github.com/hellt/nokia-yangtree
 ```
 
 ### 3.2 Archives
@@ -47,6 +47,6 @@ The github `releases`(https://github.com/hellt/nokia-yangtree/releases) page con
 **for tar.gz**
 `https://github.com/hellt/nokia-yangtree/archive/` + `tag_name` + `tar.gz`
 
-Here are the direct links to download `sros_19.10.r2` models outputs in the respective containers:
-- [sros_19.10.r2.zip](https://github.com/hellt/nokia-yangtree/archive/sros_19.10.r2.zip)
-- [sros_19.10.r2.tar.gz](https://github.com/hellt/nokia-yangtree/archive/sros_19.10.r2.tar.gz)
+Here are the direct links to download `sros_19.10.r3` models outputs in the respective containers:
+- [sros_19.10.r3.zip](https://github.com/hellt/nokia-yangtree/archive/sros_19.10.r3.zip)
+- [sros_19.10.r3.tar.gz](https://github.com/hellt/nokia-yangtree/archive/sros_19.10.r3.tar.gz)
