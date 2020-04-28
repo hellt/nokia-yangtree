@@ -21,7 +21,7 @@ The following web pages have been generated for you to easily navigate SR OS YAN
   * [Path browser](https://rdodin.gitlab.io/nokia-yangtree-srv/sros_19.10.r1-nokia-conf-combined-paths.html)
 * Nokia `state` datastore
   * [HTML tree](https://rdodin.gitlab.io/nokia-yangtree-srv/sros_19.10.r1-nokia-state-combined.html)
-  * [Path browser](https://rdodin.gitlab.io/nokia-yangtree-srv/sros_19.10.r1-nokia-conf-combined-paths.html)
+  * [Path browser](https://rdodin.gitlab.io/nokia-yangtree-srv/sros_19.10.r1-nokia-state-combined-paths.html)
 
 > Note: due to the substantial size of the HTML documents it might take a while to load them.
 
