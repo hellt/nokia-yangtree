@@ -10,7 +10,7 @@ Additionally, this repo provides the XPATH path collection (`*paths.txt|html`) t
 ## 1 Releases
 The repo structure leverages git [tags](https://github.com/hellt/nokia-yangtree/tags). Each tag points to a file collection generated for a specific Nokia 7x50 release. To browse the artifacts for a certain SR OS release, select the corresponding tag as demonstrated:
 
-> ![select_tag](https://gitlab.com/rdodin/pics/-/wikis/uploads/43cc6afb381976990c18de526fe906e6/yangtree.gif)
+> ![select_tag](https://gitlab.com/rdodin/pics/-/wikis/uploads/8e9e7582ff6b90fef02c9fd529d84303/CleanShot_2020-05-19_at_14.28.31.gif)
 
 
 ## 2 YANG browser
