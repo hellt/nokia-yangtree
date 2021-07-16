@@ -2,7 +2,6 @@
 Nokia YANGtree repo contains the most common YANG output formats generated from the original [Nokia 7x50 YANG models](https://github.com/nokia/7x50_YangModels) source. The provided output formats (generated with pyang) are:
 
 - text based `tree` version. `.txt` extension
-- XML (aka YIN) notation with `.xml` extension
 - HTML file with `.html` extension
 
 Additionally, this repo provides the XPATH path collection (`*paths.txt|html`) that enables you to easily navigate and search through the YANG model paths.
