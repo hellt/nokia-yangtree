@@ -1,3 +1,6 @@
+> **Warning**.  
+> This repo is now a public archive. No new models will be uploaded.
+
 # Nokia YANGtree
 Nokia YANGtree repo contains the HTML views for some of the [Nokia 7x50 YANG models](https://github.com/nokia/7x50_YangModels). The provided output formats are:
 
